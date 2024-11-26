@@ -29,7 +29,7 @@ This project demonstrates the creation of an Image recognition model for recogni
   print(f"Predicted CAPTCHA: {predicted_text}")
   ```
 ## Results
-Loss: 0.16707107424736023 <br>
-Accuracy: 0.9922480583190918 <br>
-Precision: 0.9937888383865356 <br>
-Recall: 0.9922480583190918 <br>
+**Loss**:      0.167<br>
+**Accuracy**:  0.992 <br>
+**Precision**: 0.993 <br>
+**Recall**:    0.992 <br>
